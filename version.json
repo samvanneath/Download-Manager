@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "release_date": "2026-10-21",
+  "download_url": "https://github.com/username/repository/releases/download/v1.1.1/KeyAdmin.exe",
+  "changelog": [
+    "Added User & License Lifetime Tracker (track used days and remaining days)",
+    "Added License Revocation & Blacklist Engine (one-click user lock out)",
+    "Added In-App GitHub Auto-Updater with background download progress",
+    "Optimized high-speed download engine with Aria2c multi-threading (16 threads)"
+  ]
+}
