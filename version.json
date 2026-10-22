@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "release_date": "2026-10-21",
-  "download_url": "https://github.com/samvanneath/Download-Manager/releases/download/v1.1.1/BilibiliDownloader.exe",
+  "version": "1.1.2",
+  "release_date": "2026-10-22",
+  "download_url": "https://github.com/samvanneath/Download-Manager/releases/download/v1.1.2/BilibiliDownloader.exe",
   "changelog": [
-    "Added User & License Lifetime Tracker (track used days and remaining days)",
-    "Added License Revocation & Blacklist Engine (one-click user lock out)",
-    "Added In-App GitHub Auto-Updater with background download progress",
-    "Optimized high-speed download engine with Aria2c multi-threading (16 threads)"
+    "Added DUBTV official branding & high-resolution app icon",
+    "Added Auto Bilibili URL Normalizer (fixes /zh-Hans/, /zh-Hant/, /en/ and tracking parameters)",
+    "Integrated all-in-one Single-File engine (bundled FFmpeg, Aria2c 16-thread, cookies)",
+    "Manual update trigger only (no intrusive startup popups)"
   ]
 }
